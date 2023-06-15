@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>Searise Technologies</name>
+		<url>http://searisetech.com/</url>
 	</organization>
 
 	<properties>
@@ -94,20 +94,20 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>searise Technologies Releases Nexus Repository</name>
 	      <url>http://3.84.49.142:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>searise Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.84.49.142:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>searise</finalName>
 		
 		<plugins>
 			<plugin>
