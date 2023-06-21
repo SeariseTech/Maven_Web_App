@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are trainning people with zero IT knowledge to master DevOp Engineering and becoming millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	We are open for enrolment and Our next class start in August, 2023. </h1>
+	We are open for new enrolment and Our next class start in August, 2023. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
