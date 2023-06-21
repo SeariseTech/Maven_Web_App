@@ -92,16 +92,16 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	    <!--<repository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>searise Technologies Releases Nexus Repository</name>
 	      <url>http://3.215.186.180:8081/repository/tesla-project-releases/</url>
-	    </repository> -->
+	    </repository> 
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.215.186.180:8081/repository/teamwork-snapshot/</url>
+	      <url>http://44.210.106.113:8081/repository/tesla-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
