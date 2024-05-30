@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>searise Technologies Releases Nexus Repository</name>
-	      <url>http://3.215.186.180:8081/repository/tesla-project-releases/</url>
+	      <url>http://52.207.208.20:8081/repository/testing-rope-releases/</url>
 	    </repository> 
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.210.106.113:8081/repository/tesla-project-snapshot/</url>
+	      <url>http://52.207.208.20:8081/repository/testing-repo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
